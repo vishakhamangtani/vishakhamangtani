@@ -58,6 +58,9 @@ I’m a **Final-Year Computer Engineering Student** from India 🇮🇳. Passion
 ---
 
 ### 📊 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=TheRareOne&color=blue&style=flat)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishakhamangtani23&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishakhamangtani23&layout=compact&theme=radical)
 
