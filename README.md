@@ -21,7 +21,7 @@ I’m a **Final-Year Computer Engineering Student** from India 🇮🇳. Passion
 
 - 🌱 Currently exploring **web development**, **big data**, and **cloud computing**.
 - 👯 Looking to collaborate on **exciting open-source projects**.
-- 💬 Ask me about **Java, Python, JavaScript, TypeScript, Springboot **, or any other tech stack I'm working on.
+- 💬 Ask me about **Java, Python, JavaScript, TypeScript, Springboot**, or any other tech stack I'm working on.
 - 📫 Reach me at [vishakhamangtani23@gmail.com](mailto:vishakhamangtani23@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vishakhamangtani23/).
 
 ---
